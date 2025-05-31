@@ -27,26 +27,26 @@ A Flutter-based task management application with user authentication and basic t
 
 ### Login Screen
 
-https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s
+[https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s](https://drive.google.com/file/d/1AsGOpGmn4Evf-N-HqEwVZsA3eksPRX_n/view?usp=drive_link)
 
 ### Sign Up Screen
 
-https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s
+[https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s](https://drive.google.com/file/d/1Nbtcz-meJ67fTOOhuKuJQymdxsVIsHG5/view?usp=drive_link)
 
 ### Home Screen
 
-https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s
+[https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s](https://drive.google.com/file/d/17vfOp7cFrFlJzEPdM8mC6akfBvml6avH/view?usp=drive_link)
 
 ### Add Task Screen
 
-https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s
+[https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s](https://drive.google.com/file/d/15WQrc3azZJcUecyl5geJlfUagino7T4O/view?usp=drive_link)
 
 ### Profile Screen
 
-https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s
+[https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s](https://drive.google.com/file/d/1mVVI7PFYcOZIAq7B2RTXT0EPjscXxV9z/view?usp=drive_link)
 
 ### Details Screen
-https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s
+[https://drive.google.com/drive/u/0/folders/1cT4H6I6Dq9mmaBIFEbqjDLQzkd2dTW4s](https://drive.google.com/file/d/1IH0UhXewaOeEw4Cz-g277R6wMV4PfIcJ/view?usp=drive_link)
 
 ## Getting Started
 
